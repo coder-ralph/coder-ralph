@@ -1,6 +1,11 @@
-- 👋 Hi, I'm Ralph!
+- 👋 Hi, Ralph here!
 - 👀 I’m interested in both front and back-end Web Development.
 - 🌱 I’m currently learning and mastering JavaScript.
+
+Hi, I'm Ralph from Antique. I am a self-taught and aspiring Web Developer.
+I like building website from scratch and currently learning JavaScript.
+
+"There is no harm in aiming, even if the target was a dream."
 
 <!---
 Alpha776/Alpha776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
