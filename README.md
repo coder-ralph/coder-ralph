@@ -2,8 +2,7 @@
 - 👀 I’m interested in both front and back-end Web Development.
 - 🌱 I’m currently learning and mastering JavaScript.
 
-Hi, I'm Ralph from Antique. I am a self-taught and aspiring Web Developer.
-I like building website from scratch and currently learning JavaScript.
+Hi, I'm Ralph from Antique. I am a self-taught Web Developer that loves coding.
 
 "There is no harm in aiming, even if the target was a dream."
 
