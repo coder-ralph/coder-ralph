@@ -1,6 +1,6 @@
 - 👋 Hi, Ralph here!
 - 👀 I’m interested in both front and back-end Web Development.
-- 🌱 I’m currently learning and mastering JavaScript.
+- 🌱 I’m currently learning and mastering Angular.
 
 "There is no harm in aiming, even if the target was a dream."
 
