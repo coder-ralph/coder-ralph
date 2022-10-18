@@ -1,5 +1,4 @@
-- 👋 Hi, I'm Ralph Rosael!
-- 👀 I design and develop things for the web.
+- 👋 Hi, I'm Ralph Rosael </💻☕>
 - 🌱 I’m currently learning Full-Stack Web Development.
 
 
