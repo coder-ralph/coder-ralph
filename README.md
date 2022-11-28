@@ -18,8 +18,8 @@ Tech Stack
    <ul>
      <li> Hi 👋, I'm Ralph </li>
      <li> Information System Student 👨‍💻 </li>
-     <li> A self-taught Front-End and Back-End Developer</li>
-     <li> I'm a person who loves to explore things especially when it comes to technology</li>
+     <li> A self-taught Front-End and Back-End Developer. </li>
+     <li> I'm a person who loves to explore things especially when it comes to technology. </li>
      <li> Now studying:   
         <ul> 
           <li> JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Postman </li>
@@ -31,7 +31,7 @@ Tech Stack
           <li> Learning, Coding </li>
           <li> Drawing, watching anime, playing basketball and Clash of Clans </li>
           <li> Web Design (Figma) </li>
-          <li> Building Arduino projects in free time (Electronics Robotics</li>
+          <li> Building Arduino projects in free time (Electronics Robotics) </li>
         </ul>
      </li>  
    </ul> 
