@@ -17,40 +17,58 @@ Tech Stack
  <td width="70%">
    <ul>
      <li> Hi 👋, I'm Ralph </li>
-     <li> Information System Student 👨‍💻 </li>
-     <li> A self-taught Front-End and Back-End Developer. </li>
+     <li> Front-End Developer 💻 </li>
      <li> I'm a person who loves to explore things especially when it comes to technology. </li>
+    <br>
      <li> Now studying:   
         <ul> 
-          <li> JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Postman </li>
+          <li> ReactJS, React Native, TaildWindCSS, TypeScript </li>
           <li> UI/UX Design </li>
+         <li> Back-End Development </li>
         </ul>          
      </li>  
      <li> Hobbies:
         <ul> 
-          <li> Learning, Coding </li>
-          <li> Drawing, watching anime, playing basketball and Clash of Clans </li>
+          <li> Learning, Coding, Cooking </li>
+          <li> Drawing, watching anime, and playing Clash of Clans </li>
           <li> Web Design (Figma) </li>
-          <li> Building Arduino projects in free time (Electronics Robotics) </li>
+          <li> Building Arduino projects (Electronics Robotics) </li>
         </ul>
      </li>  
-   </ul> 
+   </ul>
+  <h4> Social: </h4>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
 </td>
 <td>
-    <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-    <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat">   
-    <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
-    <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">    
-    <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">   
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </td>
 </tr>
 </table>
 
-
+       
 <!---
 Alpha776/Alpha776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
