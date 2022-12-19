@@ -17,12 +17,12 @@ Tech Stack
  <td width="70%">
    <ul>
      <li> Hi 👋, I'm Ralph </li>
-     <li> Front-End Developer 💻 </li>
+     <li> A self-taught Web Developer and Python Developer. 💻 </li>
      <li> I'm a person who loves to explore things especially when it comes to technology. </li>
     <br>
      <li> Now studying:   
         <ul> 
-          <li> ReactJS, React Native, TaildWindCSS, TypeScript </li>
+          <li> ReactJS, TaildWindCSS, TypeScript </li>
           <li> UI/UX Design </li>
          <li> Back-End Development </li>
         </ul>          
