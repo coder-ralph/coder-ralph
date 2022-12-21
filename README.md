@@ -1,8 +1,10 @@
 <!-- # <p align = "center" >Hi 👋, I'm Ralph Rosael </p> -->
-<!-- # <p align = "center" ><img align="center"  src="https://github.com/coder-ralph/coder-ralph/master/readme_banner.png?raw" /></p> -->
+<!-- # <p align = "center" ><img align="center"  src="https://github.com/coder-ralph/coder-ralph/master/readme_banner.png?raw" /> </p> -->
 
  ![](readme-banner.png)
-
+ 
+<!--  <img src="https://komarev.com/ghpvc/?username=coder-ralph&label=Profile%20views&color=0e75b6&style=flat" alt="coder-ralph" /> -->
+ 
 <table>
 <tr>
  <th>
@@ -68,9 +70,15 @@ Tech Stack
 </tr>
 </table>
 
+<!-- # Connect with me:
+
+<a href="https://www.linkedin.com/coder-ralph" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coder-ralph" height="30" width="40" /> -->
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=coder-ralph&show_icons=true&theme=default" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&layout=compact" />
+
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&" alt="coder-ralph" />
 
        
 <!---
