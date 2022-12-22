@@ -24,7 +24,7 @@ Tech Stack
     <br>
      <li> Now studying:   
         <ul> 
-          <li> ReactJS, TaildWindCSS, TypeScript </li>
+          <li> ReactJS </li>
           <li> UI/UX Design </li>
          <li> Back-End Development </li>
         </ul>          
