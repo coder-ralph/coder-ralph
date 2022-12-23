@@ -31,9 +31,8 @@ Tech Stack
      </li>  
      <li> Hobbies:
         <ul> 
-          <li> Learning, Coding, Cooking </li>
-          <li> Drawing, watching anime, and playing Clash of Clans </li>
-          <li> Web Design (Figma) </li>
+          <li> Learning, Coding, Drawing </li>
+          <li> Designing (Figma) </li>
           <li> Building Arduino projects (Electronics Robotics) </li>
         </ul>
      </li>  
