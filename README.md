@@ -19,7 +19,7 @@ Tech Stack
  <td width="70%">
    <ul>
      <li> Hi 👋, I'm Ralph </li>
-     <li> A self-taught Web Developer and Python Developer. 💻 </li>
+     <li> A Self-taught Developer. 💻 </li>
      <li> I'm a person who loves to explore things especially when it comes to technology. </li>
     <br>
      <li> Now studying:   
