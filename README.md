@@ -1,9 +1,10 @@
 <!-- # <p align = "center" >Hi 👋, I'm Ralph Rosael </p> -->
 <!-- # <p align = "center" ><img align="center"  src="https://github.com/coder-ralph/coder-ralph/master/readme_banner.png?raw" /> </p> -->
 
-<!--  ![](readme-banner.png) -->
- 
-<!--  <img src="https://komarev.com/ghpvc/?username=coder-ralph&label=Profile%20views&color=0e75b6&style=flat" alt="coder-ralph" /> -->
+![](readme_banner.png)
+
+ <!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=coder-ralph&label=Profile%20views&color=0e75b6&style=flat" alt="coder-ralph" />
  
 <table>
 <tr>
@@ -18,7 +19,7 @@ Tech Stack
 <tr>
  <td width="70%">
    <ul>
-     <li> Hi 👋, I'm Ralph </li>
+     <li> Hi 👋, I'm Ralph  </li>
      <li> A Self-taught Developer. 💻 </li>
      <li> I'm a person who loves to explore things especially when it comes to technology. </li>
     <br>
@@ -57,17 +58,23 @@ Tech Stack
 </tr>
 </table>
 
-<!-- # Connect with me:
+<!-- Socials -->
+<h4>Connect with me:</h4>
 
-<a href="https://www.linkedin.com/coder-ralph" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coder-ralph" height="30" width="40" /> -->
+<a href="https://www.linkedin.com/in/ralphrosael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ralphrosael" height="25" width="30" /></a>
+<a href="https://instagram.com/coderralph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mide" height="25" width="30" /></a>
 
+<!-- Tech Stack Used -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&layout=compact" />
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=coder-ralph&show_icons=true&theme=default" />
-
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&" alt="coder-ralph" /> -->
 
-      
+<!-- Profile Trophy -->
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-ralph" alt="coder-ralph" /></a>
+
+
+
 <!---
 Alpha776/Alpha776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
