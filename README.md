@@ -1,7 +1,7 @@
 <!-- # <p align = "center" >Hi 👋, I'm Ralph Rosael </p> -->
 <!-- # <p align = "center" ><img align="center"  src="https://github.com/coder-ralph/coder-ralph/master/readme_banner.png?raw" /> </p> -->
 
-![](coderralph_banner.png)
+<!-- ![](coderralph_banner.png)  -->
 
  <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=coder-ralph&label=Profile%20views&color=0e75b6&style=flat" alt="coder-ralph" />
