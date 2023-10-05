@@ -3,6 +3,8 @@
 
 <!-- ![](coderralph_banner.png)  -->
 
+[![An image of @coderralph's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderralph)](https://holopin.io/@coderralph)
+
  <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=coder-ralph&label=Profile%20views&color=0e75b6&style=flat" alt="coder-ralph" />
  
