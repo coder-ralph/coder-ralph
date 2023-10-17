@@ -69,7 +69,7 @@ Tech Stack
 <!-- <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&" alt="coder-ralph" /> -->
 
 <!-- 🏅 Profile Trophy -->
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-ralph" alt="coder-ralph" /></a>
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-ralph" alt="coder-ralph" /></a> -->
 
 
 
