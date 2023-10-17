@@ -64,8 +64,9 @@ Tech Stack
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&layout=compact" />
 
 <!-- 📊  GitHub Stats -->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=coder-ralph&show_icons=true&theme=default" />
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&" alt="coder-ralph" />
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=coder-ralph&show_icons=true&theme=default" /> -->
+
+<!-- <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&" alt="coder-ralph" /> -->
 
 <!-- 🏅 Profile Trophy -->
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-ralph" alt="coder-ralph" /></a> -->
