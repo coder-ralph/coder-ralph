@@ -66,7 +66,7 @@ Tech Stack
 
 ### 📈 &nbsp;GitHub Analytics
 
-<p align="center" display="flex">
+<p align="center">
   <img height="210px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-ralph&theme=synthwave"/>
   <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&theme=tokyonight"/>
     
