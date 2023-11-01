@@ -64,16 +64,18 @@ Tech Stack
 <a href="https://www.linkedin.com/in/ralphrosael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ralphrosael" height="25" width="30" /></a>
 <a href="https://instagram.com/coderralph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mide" height="25" width="30" /></a>
 
-### 📈 &nbsp;GitHub Analytics
+<div style="text-align: center;">
+  <h1>📈 &nbsp;GitHub Analytics</h1>
 
-<p align="center">
   <img height="210px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-ralph&theme=synthwave"/>
   <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&theme=tokyonight"/>
-    
-<br><br>
- ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&theme=radical)
-<br><br>
- ![Trophy](https://github-profile-trophy.vercel.app/?username=coder-ralph&theme=tokyonight)
+  
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&theme=radical"/>
+  
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=coder-ralph&theme=tokyonight"/>
+</div>
 
 
 <!-- 👨‍💻 Tech Stack Used -->
