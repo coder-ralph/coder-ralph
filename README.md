@@ -59,9 +59,20 @@ Tech Stack
 <a href="https://www.linkedin.com/in/ralphrosael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ralphrosael" height="25" width="30" /></a>
 <a href="https://instagram.com/coderralph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mide" height="25" width="30" /></a>
 
+### 📈 &nbsp;GitHub Analytics
+
+<p align="center">
+  <img height="210px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-ralph&theme=synthwave"/>
+  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&theme=tokyonight"/>
+    
+<br><br>
+ ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&theme=radical)
+<br><br>
+ ![Trophy](https://github-profile-trophy.vercel.app/?username=coder-ralph&theme=tokyonight)
+
 
 <!-- 👨‍💻 Tech Stack Used -->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&layout=compact" />
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&layout=compact" /> -->
 
 <!-- 📊  GitHub Stats -->
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=coder-ralph&show_icons=true&theme=default" /> -->
@@ -76,4 +87,16 @@ Tech Stack
 <!---
 Alpha776/Alpha776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 --->
