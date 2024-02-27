@@ -24,18 +24,18 @@ Tech Stack
  <td width="70%">
    <ul>
      <li> Hi 👋, I'm Ralph  </li>
-     <li> A Self-taught Developer. 💻 </li>
+     <li> A Self-taught Web Developer. 💻 </li>
      <li> I'm a person who loves to explore things especially when it comes to technology. </li>
     <br>
      <li> Currently Learning:   
         <ul> 
           <li> React </li>
-          <li> Backend Development </li>
+          <li> Frontend Development </li>
         </ul>          
      </li>  
      <li> Hobbies:
         <ul> 
-          <li> Learning, Coding, Designing</li>
+          <li> Learning, Coding, Designing, Traveling, and Playing online games.</li>
         </ul>
      </li>  
    </ul>
