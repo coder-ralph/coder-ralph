@@ -35,7 +35,7 @@ Tech Stack
      </li>  
      <li> Hobbies:
         <ul> 
-          <li> Learning, Coding, Designing, Traveling, and Playing online games.</li>
+          <li> Learning New Things, Listening to Songs, and Playing Online Games.</li>
         </ul>
      </li>  
    </ul>
