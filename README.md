@@ -44,7 +44,7 @@ Tech Stack
 <!-- Technologies Section -->
 <td>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github," />
+      <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,anaconda" />
       <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,figma,arduino,blender" />
     </a>
   </td>
