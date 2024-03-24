@@ -26,10 +26,11 @@ Tech Stack
      <li> A Self-taught Developer. 💻 </li>
      <li> I'm a person who loves to explore things especially when it comes to technology. </li>
     <br>
-     <li> 🌱 I’m currently learning  
+     <li> 🌱 I’m currently learning:  
         <ul> 
-          <li> React </li>
-          <li> Frontend Development </li>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react,php,mysql,django,mongodb,firebase,graphql" />
+          </a>
         </ul>          
      </li>  
      <li> 🎮 Hobbies:
@@ -64,29 +65,18 @@ Tech Stack
 <a href="https://www.linkedin.com/in/ralphrosael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ralphrosael" height="25" width="30" /></a>
 <a href="https://instagram.com/coderralph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mide" height="25" width="30" /></a>
 
+-------------
+
 ### 📈 GitHub Analytics
 
 <p align="center">
   <img height="210px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-ralph&theme=synthwave"/>
   <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&theme=tokyonight"/>
     
-<br><br>
- ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&theme=radical)
-<br><br>
- ![Trophy](https://github-profile-trophy.vercel.app/?username=coder-ralph&theme=tokyonight)
-
-
-<!-- 👨‍💻 Tech Stack Used -->
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&layout=compact" /> -->
-
 <!-- 📊  GitHub Stats -->
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=coder-ralph&show_icons=true&theme=default" /> -->
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&theme=radical)
 
-<!-- <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&" alt="coder-ralph" /> -->
-
-<!-- 🏅 Profile Trophy -->
-<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-ralph" alt="coder-ralph" /></a> -->
-
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=coder-ralph&theme=tokyonight) -->
 
 
 <!---
