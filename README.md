@@ -29,7 +29,7 @@ Tech Stack
      <li> 🌱 I’m currently learning:  
         <ul> 
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,php,mysql,django,mongodb,firebase,graphql" />
+            <img src="https://skillicons.dev/icons?i=react,php,mysql,django,mongodb,firebase,graphql,wordpress" />
           </a>
         </ul>          
      </li>  
@@ -43,15 +43,10 @@ Tech Stack
 
 <!-- Technologies Section -->
 <td>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github," />
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,figma,arduino,blender" />
+    </a>
   </td>
 </tr>
 </table>
