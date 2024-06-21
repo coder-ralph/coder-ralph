@@ -52,26 +52,26 @@ Tech Stack
 </table>
 
 <!-- 👀 Profile Views -->
-<!-- <img src="https://komarev.com/ghpvc/?username=coder-ralph&label=Profile%20views&color=0e75b6&style=flat" alt="coder-ralph" /> -->
+<img src="https://komarev.com/ghpvc/?username=coder-ralph&label=Profile%20views&color=0e75b6&style=flat" alt="coder-ralph" />
 
 <!-- 📱 Socials -->
-<!-- ### 📱 Connect with me: -->
+### 📱 Connect with me:
 
-<!-- <a href="https://www.linkedin.com/in/ralphrosael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ralphrosael" height="25" width="30" /></a>
-<a href="https://instagram.com/coderralph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mide" height="25" width="30" /></a> -->
+<a href="https://www.linkedin.com/in/ralphrosael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ralphrosael" height="25" width="30" /></a>
+<a href="https://instagram.com/coderralph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mide" height="25" width="30" /></a>
 
 <!-- ------------- -->
 
-<!-- ### 📈 GitHub Analytics -->
+### 📈 GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
   <img height="210px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-ralph&theme=synthwave"/>
-  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&theme=tokyonight"/> -->
+  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ralph&theme=tokyonight"/>
     
 <!-- 📊  GitHub Stats -->
-<!-- ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&theme=radical) -->
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=coder-ralph&theme=radical)
 
-<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=coder-ralph&theme=tokyonight) -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=coder-ralph&theme=tokyonight)
 
 
 <!---
